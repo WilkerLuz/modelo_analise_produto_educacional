@@ -1,0 +1,52 @@
+ID,USERNAME,FIRSTNAME,LASTNAME,EMAIL,CITY,COUNTRY,LANG,FIRSTACESS,LASTACESS,LASTLOGIN,CURRENTLOGIN,LASTIP,DESCRIPTION,TIMECREATED,TIMEMODIFIED
+18,pedro_victor,Pedro,Victor Soares da Silva Araújo,pedrosoares@acad.ifma.edu.br,Caxias,BR,en,1679512370,1688068717,1686885490,1688068717,143.0.53.39,NULL,1679512289,1679512289
+19,raislanitalo,Raislan,Ítalo,raislanitalo13@gmail.com,Caxias ,BR,pt_br,0,0,0,0,,NULL,1679512318,1679512318
+20,crisfieldy,Crisfieldy,Aristodenes,crisfieldyr@acad.ifma.edu.br,Timon,BR,pt_br,1679529025,1689017014,1687991554,1689017014,189.50.213.13,NULL,1679528869,1679528869
+21,20231bcc.cax0024,Neudson,Gabriel,ngabriel@acad.ifma.edu.br,Caxias,BR,pt_br,1679615276,1688579362,1687220761,1688578602,200.137.143.67,"<p dir=""ltr"" style=""text-align:left;""><br /></p>",1679529810,1683253263
+22,jose_cassios,José Cássios,Costa Torres,cassios.torres@acad.ifma.edu.br,Caxias,BR,pt_br,1679569889,1686096045,1686016131,1686096045,189.84.119.40,NULL,1679569699,1679569699
+23,raislan,Raislan,Ítalo,raislan.italo@acad.ifma.edu.br,Caxias ,BR,pt_br,1679570137,1688997958,1688758787,1688997958,177.105.215.23,NULL,1679570094,1679570094
+24,eduardosousa,Eduardo,Sousa Nunes,eduardo.nunes@acad.ifma.edu.br,Teresina-PI,BR,pt_br,1679572614,1682605605,1682513829,1682602058,45.168.72.122,NULL,1679572559,1679572559
+25,avila,Ávila,Araújo,avilac@acad.ifma.edu.br,Coroatá,BR,pt_br,1679577643,1686923440,1686316166,1686923346,45.168.72.48,NULL,1679577530,1679577530
+26,carlos,Carlos Eduardo,Lima Coutinho,carloscoutinho@acad.ifma.edu.br,Caxias,BR,pt_br,1679577590,1686313403,1686252390,1686313403,128.201.46.25,NULL,1679577552,1679577552
+27,luis9060,Luis Felipe,Assunção Pereira,luisassuncao@acad.ifma.edu.br,Caxias,BR,pt_br,1679583067,1688070535,1688062217,1688070377,177.105.218.32,NULL,1679583036,1679583036
+28,ycaro,Ycaro Yan,Lourenço Santos,ycarolourenco@acad.ifma.edu.br,Caxias,BR,pt_br,1679624683,1694734181,1692626316,1694734056,186.249.215.13,NULL,1679624646,1679624646
+29,randerson,Randerson,Sousa de Sá Nunes,randerson.sousa@acad.ifma.edu.br,São João dos Patos,BR,pt_br,1679670815,1688944466,1686933135,1688943998,170.84.145.247,,1679670775,1683138763
+30,jonasdavinogueirasena,Jonas Davi,Nogueira Sena,jonasnogueira@acad.ifma.edu.br,Caxias,BR,pt_br,1679673075,1691800194,1687214085,1691799554,177.105.216.34,NULL,1679673059,1679673059
+31,roberto,Roberto,Guilhon,roberto.guilhon@acad.ifma.edu.br,Caxias ,BR,pt_br,1679706099,1687194038,1686933873,1687194038,200.137.143.67,NULL,1679694000,1679694000
+32,gabriel,Gabriel,Viana da Costa,gabriel.c@acad.ifma.edu.br,PRESIDENTE DUTRA,BR,pt_br,0,0,0,0,,NULL,1679705033,1679705033
+33,samuelryan,Samuel Ryan,Fonseca Anunciação,samuel.ryan@acad.ifma.com.br,Caxias MA,BR,pt_br,0,0,0,0,,NULL,1679705326,1679705326
+34,biel,Gabriel,Viana da Costa,gabirel.c@acad.ifma.edu.br,PRESIDENTE DUTRA,BR,pt_br,1679705480,1692277998,1688122840,1692277998,128.201.46.48,,1679705453,1679747557
+35,leonel_santos,Francisco Leonel Ferreira dos,Santos,leonel.s@acad.ifma.edu.br,Caxias,BR,pt_br,1679706827,1686935837,1685982773,1686935837,200.137.143.67,NULL,1679706762,1679706762
+36,usaan,Gabriel,Oliveira,g.assuncao@acad.ifma.edu.br,Caxias,BR,en,1679707654,1688832240,1686921086,1688832156,177.105.215.21,,1679707633,1679707982
+37,samuel,Samuel Ryan,Fonseca Anunciação,samuel.ryan@acad.ifma.edu.br,Caxias Maranhão,BR,pt_br,1679751197,1688760310,1686353095,1688760310,143.0.53.22,NULL,1679751092,1679751092
+38,truman,Hipócrates,Augusto,augusto.brandao@acad.ifma.edu.br,Caxias ,BR,en,1679877293,1689710303,1689450126,1689705659,191.6.22.26,,1679752011,1682354545
+39,thiagocastro,Heráclito Thiago,Castro Santos,castrothiago@acad.ifma.edu.br,Caxias,BR,pt_br,1679756855,1685988209,1685891870,1685984895,200.137.143.67,,1679756832,1680135866
+40,durval.veloso,DURVAL,VELOSO BARBOSA FILHO,durval.veloso@acad.ifma.edu.br,CAXIAS,BR,pt_br,1680029014,1686849727,1685985275,1686846957,200.137.143.67,NULL,1679771357,1680029270
+41,antoniowills,Antonio,Wills,antonio.w@acad.ifma.edu.br,,BR,pt_br,1679774487,1687109760,1685790998,1685984932,138.219.134.227,NULL,1679774412,1679774412
+42,victor,Victor,Emanuel,vemanuel@acad.ifma.edu.br,Caxias MA ,BR,pt_br,1679775935,1694891999,1688837124,1694891999,177.105.216.34,NULL,1679775909,1679775909
+43,danielly,Danielly ,Santos,danielly.s@acad.ifma.edu.br,Caxias,BR,pt_br,1679776432,1685984657,1685737339,1685983006,200.137.143.67,NULL,1679776395,1679776395
+44,lara,Lara Emanuelly,Da Silva Santos,emanuellysilva@acad.ifma.edu.br,Caxias ,BR,pt_br,1679777095,1685985057,1685745881,1685984368,200.137.143.67,NULL,1679777068,1679777068
+45,gustavo,Gustavo,Neves,neves.santos@acad.ifma.edu.br,Caxias,BR,pt_br,1679778555,1688165692,1686933341,1688162701,45.162.57.152,NULL,1679778527,1679778527
+46,loyse,Loyse,Cardoso,loyse.cardoso@acad.ifma.edu.br,Peritoro,BR,pt_br,1679868598,1688945951,1688858626,1688945951,143.0.53.39,,1679868246,1683564135
+47,20231bcc.cax,Saymon,Italo,saymon.italo@acad.ifma.edu.br,Caxias/MA,BR,pt_br,1679871489,1688144334,1688142802,1688144273,200.137.143.67,NULL,1679871454,1679871454
+48,guilherme,Guilherme,Oliveira de Menezes,guilherme.menezes@acad.ifma.edu.br,Codó,BR,pt_br,1679912578,1686535455,1686445054,1686535049,143.0.53.29,NULL,1679912544,1679912544
+49,juan_pablo,Juan,Pablo,juansousa@acad.ifma.edu.br,Caxias-MA,BR,pt_br,1679921966,1691690211,1686934617,1691690211,200.137.143.67,NULL,1679921890,1679921890
+50,_itsevellyvictory,Evelly Victory,Vieira Pinto,victoryvieira@acad.ifma.edu.br,Caxias ,BR,pt_br,1680275682,1686506795,1686458998,1686506795,128.201.44.110,NULL,1679932357,1679932357
+51,lucaseduardo,Lucas,Eduardo,l.eduardo@acad.ifma.edu.br,Caxias,BR,pt_br,1679934993,1685799183,1685737152,1685799183,45.168.44.177,NULL,1679934957,1679934957
+52,willianj,Willian,Furtado,willianjorge@acad.ifma.edu.br,Caxias,BR,pt_br,1679935239,1686010005,1685840094,1686010005,177.105.218.58,NULL,1679935179,1679935179
+53,gustavom,Gustavo,Marinho Santos,gustavo.marinho@acad.ifma.edu.br,Caxias ,BR,pt_br,1679935780,1681399615,1681268550,1681397318,45.168.44.160,NULL,1679935748,1679935748
+54,isaac-levi,Isaac Levi ,Oliveira Chaves,isaaclevi@acad.ifma.edu.br,Caxias,BR,pt_br,1679939371,1686260089,1685983970,1686255534,128.201.45.93,NULL,1679939341,1679939341
+55,felipe,Felipe ,Macedo,macedo.rodrigues@acad.ifma.edu.br,caxias/ma,BR,pt_br,1679939446,1687908373,1687879513,1687907265,143.0.53.45,NULL,1679939394,1679939394
+56,alisson,Alisson,Vaz Silva,alissonvaz84@gmail.com,Caxias,BR,pt_br,1680007971,1691688021,1686921187,1691687774,200.137.143.67,NULL,1680007840,1680007840
+57,luis.edu,Luis Eduardo,Martins Formiga,l.formiga@acad.ifma.edu.br,Caxias,BR,pt_br,1680181812,1688995385,1686940018,1688995385,177.105.216.50,NULL,1680181740,1680181740
+58,20231bcc.cax0044,Kyan,Lucas,kyanlucas2904@gmail.com,Timbiras,BR,pt_br,1680621075,1685996593,1685982991,1685996593,177.105.218.102,NULL,1680621054,1680621054
+59,20231bcc.cax0046,Alexandre,Henrique,exande1004@gmail.com,Caxias ,BR,pt_br,1680697076,1684526934,1681502678,1684526934,200.137.143.67,NULL,1680697056,1680697056
+60,mickaela,Mickaela,de Freitas,smickaela@acad.ifma.edu.br,Caxias / MA,BR,pt_br,1680697399,1686875679,1686873514,1686875679,128.201.45.97,NULL,1680697224,1680697224
+61,kevyn,kevyn,maia,kevynmaia@acad.ifma.edu.br,caxias,BR,pt_br,1680697489,1681950357,1681734005,1681950357,187.125.22.22,NULL,1680697410,1680697410
+62,debrianesilva@acad.ifma.edu,Debriane,Silva,debrianesilva@acad.ifma.edu,Caxias,BR,pt_br,0,0,0,0,,NULL,1680802651,1680802651
+63,2023bcc.cax0046,Alexandre,Henrique,halexandre@acad.ifma.edu.br,Caxias ,BR,pt_br,1681145033,1688063569,1687987297,1688063569,187.62.159.140,NULL,1681145013,1681145013
+64,wilmasilva,wilma,silva dos santos,wilma.silva@acad.ifma.edu.br,CAXIAS/MA ,BR,pt_br,1681145377,1688119548,1687219196,1688117267,143.0.53.39,NULL,1681145124,1681145124
+65,debrianesilva,Debriane,Silva,debrianesilva@acad.ifma.edu.br,Caxias,BR,pt_br,1681145705,1687435918,1686918657,1687435684,177.105.216.16,NULL,1681145672,1681145672
+66,betanny,Bétanny Alexandra,Silva Cruz,alexandra.silva@acad.ifma.edu.br,Caxias,BR,pt_br,1681846187,1683716973,1683660777,1683716860,200.137.143.67,NULL,1681846010,1681846010
+67,filipe,Filipe,Mendes Silva,mendesfilipe@acad.ifma.edu.br,Caxias,BR,pt_br,1681846312,1685795880,1684317265,1685795880,170.245.122.100,NULL,1681846087,1681846087
+69,benjareis,Benjamin,Reis Pinheiro,benjamin.reis@acad.ifma.edu.br,Caxias,BR,pt_br,1682360667,1682360816,0,1682360667,200.137.143.67,NULL,1682360602,1682360816
